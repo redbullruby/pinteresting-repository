@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby '2.0.0'
 # gem 'tzinfo-data', platforms: [:mingw,mswin] This needs to be kept for Windows
 gem 'rails', '4.0.0'
 gem 'sass-rails', '~> 4.0.0'
